@@ -20,6 +20,19 @@ A secure and extensible command execution engine.
 - Safe parsing (no eval)  
 - Designed for general-purpose use  
 
+<br>
+
+### 🧠 macroAPI (Datapack)
+
+A secure and extensible macro API datapack for Minecraft.
+
+* UUID-based execution control
+* `macro.admin` permission enforcement
+* Strict input validation
+* Safe execution (no clickEvent / chat injection)
+* Debug-safe + dialog system
+* Designed for Minecraft 1.20.3 – 26.x
+
 ---
 
 ## 🔒 Security
