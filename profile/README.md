@@ -1,80 +1,29 @@
-# 🚀 Runtoolkit
+# Runtoolkit
 
-**Runtoolkit** is a collection of secure, modular, and developer-focused tools.
-
-We build systems with a strong emphasis on:
-- 🔒 Security-first design  
-- ⚡ Performance & efficiency  
-- 🧩 Modular architecture  
-- 🛠️ Developer experience  
+Minecraft Java Edition datapacks and Fabric mods.
 
 ---
 
-## 📦 Projects
+## Active Projects
 
-### 🧠 macro-engine
-A secure and extensible command execution engine.
+### [dataLib-Fabric](https://github.com/runtoolkit/dataLib-Fabric)
+A utility library for Fabric mod development.
+`26.1.2` · Fabric
 
-- Sandboxed command system  
-- Single & multi-command support  
-- Safe parsing (no eval)  
-- Designed for general-purpose use  
+### [marker-command-engine](https://github.com/runtoolkit/marker-command-engine)
+A utility library for datapack development.
+`1.20+` · Datapack
 
-<br>
-
-### 🧠 macroAPI (Datapack)
-
-A secure and extensible macro API datapack for Minecraft.
-
-* UUID-based execution control
-* `macro.admin` permission enforcement
-* Strict input validation
-* Safe execution (no clickEvent / chat injection)
-* Debug-safe + dialog system
-* Designed for Minecraft 1.20.3 – 26.x
+### [inv_gui](https://github.com/runtoolkit/inv_gui)
+Inventory GUI framework for datapacks. Fork of rarula/Sketch.
+`1.21.11` · Macro support, refresh events, config system
 
 ---
 
-## 🔒 Security
+## Security
 
-Security is a core principle across all projects.
+Found a vulnerability? Follow the responsible disclosure process in each repository's `SECURITY.md`.
 
-- No unsafe code execution (`eval`, `Function`, etc.)  
-- Strict input validation  
-- Isolated execution environments  
-- Minimal dependency usage  
+## Contributing
 
-If you discover a vulnerability, please follow the responsible disclosure process defined in each repository’s `SECURITY.md`.
-
----
-
-## 🤝 Contributing
-
-We welcome contributions!
-
-Before contributing:
-- Read `CONTRIBUTING.md`
-- Follow secure coding guidelines
-- Keep code clean and minimal
-
----
-
-## 📜 Philosophy
-
-> "Security is not optional — it's the foundation."
-
-We don’t just build tools — we build **reliable systems**.
-
----
-
-## 🌐 Links
-
-- GitHub: https://github.com/runtoolkit  
-- Issues: Use repository issue trackers  
-- Security: Use private reporting channels  
-
----
-
-## ⭐ Support
-
-If you find our work useful, consider starring the repositories ⭐
+Read the repository's `CONTRIBUTING.md` before opening a PR.
