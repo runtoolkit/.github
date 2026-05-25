@@ -8,7 +8,7 @@ Minecraft Java Edition datapacks and Fabric mods.
 
 ### [dataLib-Fabric](https://github.com/runtoolkit/dataLib-Fabric)
 A utility library for Fabric mod development.
-`26.1.2` · Fabric
+`1.21.1` · Fabric
 
 ### [marker-command-engine](https://github.com/runtoolkit/marker-command-engine)
 A utility library for datapack development.
@@ -16,7 +16,7 @@ A utility library for datapack development.
 
 ### [inv_gui](https://github.com/runtoolkit/inv_gui)
 Inventory GUI framework for datapacks. Fork of rarula/Sketch.
-`1.21.11` · Macro support, refresh events, config system
+`1.20.4` · Macro support, refresh events, config system
 
 ---
 
